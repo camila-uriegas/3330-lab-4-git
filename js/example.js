@@ -41,6 +41,7 @@ $(function() {
     
     //const ulObj = document.getElementById("gameList");
   }
+  // this runs the function
   loadGames();
 
 
